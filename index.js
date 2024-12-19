@@ -1,2 +1,2 @@
-const resultadosCOVID = [true, false, true, false]; 
-alert(resultadosCOVID);
+const edadesCompaneros = [25, 30, 22, 28, 27];
+alert(edadesCompaneros);
